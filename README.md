@@ -8,7 +8,7 @@ Building gameplay systems and AI-assisted development tools.
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=unity,cs,python,pytorch,git,github" />
+<img src="https://skillicons.dev/icons?i=unity,cs,python" />
 
 </div>
 
